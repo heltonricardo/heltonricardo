@@ -7,7 +7,10 @@
 <br/>
 
 ### :wave: Olá! Meu nome é Helton!
-&nbsp;
 
 Sou um entusiasta da área de TI e da disseminação do conhecimento.  
 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no IFSP.
+
+- :star: Conheço bem C, MySQL, Python e Scratch
+- :seedling: Atualmente estou apredendo Java
+- :gem: Também conheço C++, C# e Javascript

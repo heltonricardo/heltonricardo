@@ -1,4 +1,4 @@
-<img align="right" src=".../../images/illustration.png" width="300"/>
+<img align="right" src=".../../images/image.png" width="300"/>
 <span>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/heltonricardo/) 

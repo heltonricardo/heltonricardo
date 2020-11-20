@@ -1,4 +1,4 @@
-<img align="right" src=".../../images/illustration.png" width="350"/>
+<img align="right" src=".../../images/illustration.png" width="300"/>
 <span>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/heltonricardo/) 
@@ -7,6 +7,7 @@
 <br/>
 
 ### :wave: Olá! Meu nome é Helton!
+&nbsp;
 
 Sou um entusiasta da área de TI e da disseminação do conhecimento.  
 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no IFSP.

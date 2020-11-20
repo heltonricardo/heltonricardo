@@ -1,8 +1,8 @@
 <img align="right" src=".../../images/image.png" width="300"/>
 <span>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/heltonricardo/) 
-[![Email Badge](https://img.shields.io/badge/-E--mail-107bd5?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:helton_ricardo13@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/heltonricardo/) 
+[![Email Badge](https://img.shields.io/badge/-E--mail-107bd5?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:helton_ricardo13@hotmail.com)
 
 <br/>
 

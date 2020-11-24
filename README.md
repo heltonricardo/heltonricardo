@@ -12,7 +12,7 @@
 ### :wave: Olá! Meu nome é Helton!
 
 Sou um entusiasta da área de TI e da disseminação do conhecimento.  
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no IFSP.
+Atualmente curso Análise e Desenvolvimento de Sistemas no IFSP.
 
 - :star: Desenvolvo bem em C, MySQL, Python e Scratch
 - :seedling: Atualmente estou aprendendo Java

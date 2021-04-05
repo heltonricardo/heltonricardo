@@ -12,8 +12,8 @@
 ### :wave: Olá! Meu nome é Helton!
 
 Sou um entusiasta da área de TI e da disseminação do conhecimento.  
-Atualmente curso Análise e Desenvolvimento de Sistemas no IFSP.
+Atualmente curso Análise e Desenvolvimento de Sistemas e trabalho na área.
 
-- :star: Desenvolvo bem em C, MySQL, Python e Scratch
-- :seedling: Atualmente estou aprendendo Java
-- :gem: Também conheço C++, C# e Javascript
+- :star: Conheço bem C, Java, MySQL, Python e Scratch
+- :seedling: Atualmente estou aprendendo JavaScript e React
+- :gem: Também tenho noção sobre C++ e C#

@@ -7,10 +7,10 @@
    <h1 align="center">Bio</h1>
    <h3 align="center">
       Sou um entusiasta da área de TI e da disseminação do conhecimento.
-      <br />
+      <br /><br />
       Atualmente curso Análise e Desenvolvimento de Sistemas e trabalho na área.
    </h3>
-   <br /><br />
+   <br />
 
    <h1 align="center">Habilidades</h1>
    <p align="center">

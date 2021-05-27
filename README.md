@@ -9,8 +9,8 @@
       Sou um entusiasta da área de TI e da disseminação do conhecimento.
       <br />
       Atualmente curso Análise e Desenvolvimento de Sistemas e trabalho na área.
-      <br><br>
    </div>
+   <br><br>
 
    <h2 align="center">Habilidades</h2>
    <p align="center">
@@ -28,7 +28,7 @@
       <code><img height="70" title="React" src="./assets/react.svg"></code> &nbsp; &nbsp;
       <code><img height="70" title="Spring Boot" src="./assets/spring.svg"></code> &nbsp; &nbsp;
       <code><img height="70" title="Svelte" src="./assets/svelte.svg"></code> &nbsp; &nbsp;
-      <code><img height="70" title="Typescript" src="./assets/typeScript.svg"></code> &nbsp; &nbsp;
+      <code><img height="70" title="TypeScript" src="./assets/typescript.svg"></code> &nbsp; &nbsp;
       <code><img height="70" title="Vue.js" src="./assets/vue.svg"></code>
 
    </p>

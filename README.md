@@ -35,9 +35,9 @@
 
    <div align="center">
       <h1>Meus Status</h1>
-      <img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api/top-langs/?username=heltonricardo&langs_count=10&layout=compact&theme=gotham" alt="Linguagens mais utilizadas">
+      <img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api/top-langs/?username=heltonricardo&langs_count=10&layout=compact&theme=algolia" alt="Linguagens mais utilizadas">
       <br /><br />
-      <img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=heltonricardo&count_private=true&show_icons=true&hide=issues&theme=gotham" alt="Meus status no GitHub">
+      <img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=heltonricardo&count_private=true&show_icons=true&hide=issues&theme=algolia" alt="Meus status no GitHub">
       </p>
    </div>
 

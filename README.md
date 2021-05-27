@@ -14,30 +14,30 @@
 
    <div align="center" style="display:inline-block">
       <h1>Habilidades</h1>
-      <img height="70" title="C" src="./assets/c.svg">
-      <img height="70" title="C++" src="./assets/cpp.svg">    
-      <img height="70" title="CSS3" src="./assets/css.svg"> 
-      <img height="70" title="Dart" src="./assets/dart.svg"> 
-      <img height="70" title="Flutter" src="./assets/flutter.svg"> 
-      <img height="70" title="HTML5" src="./assets/html.svg"> 
-      <img height="70" title="Java" src="./assets/java.svg"> 
-      <img height="70" title="JavaScript" src="./assets/js.svg">
-      <img height="70" title="MySQL" src="./assets/mysql.svg">
-      <img height="70" title="Next.js" src="./assets/next.svg">
-      <img height="70" title="Python" src="./assets/python.svg">
-      <img height="70" title="React" src="./assets/react.svg">
-      <img height="70" title="Spring Boot" src="./assets/spring.svg">
-      <img height="70" title="Svelte" src="./assets/svelte.svg"> 
-      <img height="70" title="TypeScript" src="./assets/typescript.svg">
-      <img height="70" title="Vue.js" src="./assets/vue.svg">
+      <img style="margin: 5px" height="70" title="C" src="./assets/c.svg">
+      <img style="margin: 5px" height="70" title="C++" src="./assets/cpp.svg">    
+      <img style="margin: 5px" height="70" title="CSS3" src="./assets/css.svg"> 
+      <img style="margin: 5px" height="70" title="Dart" src="./assets/dart.svg"> 
+      <img style="margin: 5px" height="70" title="Flutter" src="./assets/flutter.svg"> 
+      <img style="margin: 5px" height="70" title="HTML5" src="./assets/html.svg"> 
+      <img style="margin: 5px" height="70" title="Java" src="./assets/java.svg"> 
+      <img style="margin: 5px" height="70" title="JavaScript" src="./assets/js.svg">
+      <img style="margin: 5px" height="70" title="MySQL" src="./assets/mysql.svg">
+      <img style="margin: 5px" height="70" title="Next.js" src="./assets/next.svg">
+      <img style="margin: 5px" height="70" title="Python" src="./assets/python.svg">
+      <img style="margin: 5px" height="70" title="React" src="./assets/react.svg">
+      <img style="margin: 5px" height="70" title="Spring Boot" src="./assets/spring.svg">
+      <img style="margin: 5px" height="70" title="Svelte" src="./assets/svelte.svg"> 
+      <img style="margin: 5px" height="70" title="TypeScript" src="./assets/typescript.svg">
+      <img style="margin: 5px" height="70" title="Vue.js" src="./assets/vue.svg">
    </div>
    <br />
 
    <div align="center">
       <h1>Meus Status</h1>
-      <code><img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api/top-langs/?username=heltonricardo&langs_count=10&layout=compact&theme=gotham" alt="Linguagens mais utilizadas"></code>
+      <img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api/top-langs/?username=heltonricardo&langs_count=10&layout=compact&theme=gotham" alt="Linguagens mais utilizadas">
       <br /><br />
-      <code><img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=heltonricardo&count_private=true&show_icons=true&hide=issues&theme=gotham" alt="Meus status no GitHub"></code>
+      <img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=heltonricardo&count_private=true&show_icons=true&hide=issues&theme=gotham" alt="Meus status no GitHub">
       </p>
    </div>
 

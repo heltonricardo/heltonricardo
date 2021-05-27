@@ -47,7 +47,7 @@
    <br />
 
    <h1 align="center">Entre em contato</h1>
-   <h1 align="center">
+   <div align="center">
       <a target="_blank" href="https://www.linkedin.com/in/heltonricardo/">
          <img src="./assets/linkedin.svg" width="40" height="40"/>
       </a>
@@ -60,7 +60,7 @@
       <a target="_blank" href="https://heltonricardo.github.io/">
          <img src="./assets/website.svg" width="40" height="40"/>
       </a>
-   </h1>
+   </div>
 
    <a href="#">
       <img align="center" src="./assets/bottom.png" alt="My Github Stats">

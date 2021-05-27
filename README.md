@@ -12,33 +12,30 @@
    </h3>
    <br />
 
-   <h1 align="center">Habilidades</h1>
-   <p align="center">
-      <code><img height="70" title="C" src="./assets/c.svg"></code> &nbsp; &nbsp;
-      <code><img height="70" title="C++" src="./assets/cpp.svg"></code> &nbsp; &nbsp;
-      <code><img height="70" title="CSS3" src="./assets/css.svg"></code> &nbsp; &nbsp;
-      <code><img height="70" title="Dart" src="./assets/dart.svg"></code> &nbsp; &nbsp;
-      <code><img height="70" title="Flutter" src="./assets/flutter.svg"></code> &nbsp; &nbsp;
-      <code><img height="70" title="HTML5" src="./assets/html.svg"></code> &nbsp; &nbsp;
-      <code><img height="70" title="Java" src="./assets/java.svg"></code> &nbsp; &nbsp;
-      <code><img height="70" title="JavaScript" src="./assets/js.svg"></code>
-   </p>
-   <br />
-   <p align="center">
-      <code><img height="70" title="MySQL" src="./assets/mysql.svg"></code> &nbsp; &nbsp;
-      <code><img height="70" title="Next.js" src="./assets/next.svg"></code> &nbsp; &nbsp;
-      <code><img height="70" title="Python" src="./assets/python.svg"></code> &nbsp; &nbsp;
-      <code><img height="70" title="React" src="./assets/react.svg"></code> &nbsp; &nbsp;
-      <code><img height="70" title="Spring Boot" src="./assets/spring.svg"></code> &nbsp; &nbsp;
-      <code><img height="70" title="Svelte" src="./assets/svelte.svg"></code> &nbsp; &nbsp;
-      <code><img height="70" title="TypeScript" src="./assets/typescript.svg"></code> &nbsp; &nbsp;
-      <code><img height="70" title="Vue.js" src="./assets/vue.svg"></code>
-   </p>
+<nav align="center" style="display:inline-block">
+   <h1>Habilidades</h1>
+   <img height="70" title="C" src="./assets/c.svg">
+   <img height="70" title="C++" src="./assets/cpp.svg">    
+   <img height="70" title="CSS3" src="./assets/css.svg"> 
+   <img height="70" title="Dart" src="./assets/dart.svg"> 
+   <img height="70" title="Flutter" src="./assets/flutter.svg"> 
+   <img height="70" title="HTML5" src="./assets/html.svg"> 
+   <img height="70" title="Java" src="./assets/java.svg"> 
+   <img height="70" title="JavaScript" src="./assets/js.svg">
+   <img height="70" title="MySQL" src="./assets/mysql.svg">
+   <img height="70" title="Next.js" src="./assets/next.svg">
+   <img height="70" title="Python" src="./assets/python.svg">
+   <img height="70" title="React" src="./assets/react.svg">
+   <img height="70" title="Spring Boot" src="./assets/spring.svg">
+   <img height="70" title="Svelte" src="./assets/svelte.svg"> 
+   <img height="70" title="TypeScript" src="./assets/typescript.svg">
+   <img height="70" title="Vue.js" src="./assets/vue.svg">
+   </nav>
    <br />
 
    <div align="center">
       <h1>Meus Status</h1>
-      <code><img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api/top-langs/?username=heltonricardo&layout=compact&theme=gotham" alt="Linguagens mais utilizadas"></code>
+      <code><img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api/top-langs/?username=heltonricardo&langs_count=10&layout=compact&theme=gotham" alt="Linguagens mais utilizadas"></code>
       <br /><br />
       <code><img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=heltonricardo&count_private=true&show_icons=true&hide=issues&theme=gotham" alt="Meus status no GitHub"></code>
       </p>

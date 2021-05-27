@@ -3,7 +3,7 @@
    <a href="#">
       <img align="center" src="./assets/top.png" alt="My Github Stats">
    </a>
-   <h2 align="center">Bio</h2>
+   <h1 align="center">Bio</h1>
 
    <div align="center">
       Sou um entusiasta da área de TI e da disseminação do conhecimento.
@@ -35,13 +35,11 @@
    <br>
 
    <div align="center">
-      <div>
-         <h3>Meus Status</h3>
-         <code><img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api/top-langs/?username=heltonricardo&layout=compact&theme=gotham" alt="My Github Stats"></code>
-         <br><br>
-         <code><img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=heltonricardo&count_private=true&show_icons=true&hide=issues&theme=gotham" alt="My Github Stats"></code>
-         </p>
-      </div>
+      <h2>Meus Status</h2>
+      <code><img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api/top-langs/?username=heltonricardo&layout=compact&theme=gotham" alt="Linguagens mais utilizadas"></code>
+      <br><br>
+      <code><img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=heltonricardo&count_private=true&show_icons=true&hide=issues&theme=gotham" alt="Meus status no GitHub"></code>
+      </p>
    </div>
 
    <br />

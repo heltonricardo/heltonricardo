@@ -12,25 +12,25 @@
    </h3>
    <br />
 
-<nav align="center" style="display:inline-block">
-   <h1>Habilidades</h1>
-   <img height="70" title="C" src="./assets/c.svg">
-   <img height="70" title="C++" src="./assets/cpp.svg">    
-   <img height="70" title="CSS3" src="./assets/css.svg"> 
-   <img height="70" title="Dart" src="./assets/dart.svg"> 
-   <img height="70" title="Flutter" src="./assets/flutter.svg"> 
-   <img height="70" title="HTML5" src="./assets/html.svg"> 
-   <img height="70" title="Java" src="./assets/java.svg"> 
-   <img height="70" title="JavaScript" src="./assets/js.svg">
-   <img height="70" title="MySQL" src="./assets/mysql.svg">
-   <img height="70" title="Next.js" src="./assets/next.svg">
-   <img height="70" title="Python" src="./assets/python.svg">
-   <img height="70" title="React" src="./assets/react.svg">
-   <img height="70" title="Spring Boot" src="./assets/spring.svg">
-   <img height="70" title="Svelte" src="./assets/svelte.svg"> 
-   <img height="70" title="TypeScript" src="./assets/typescript.svg">
-   <img height="70" title="Vue.js" src="./assets/vue.svg">
-   </nav>
+   <div align="center" style="display:inline-block">
+      <h1>Habilidades</h1>
+      <img height="70" title="C" src="./assets/c.svg">
+      <img height="70" title="C++" src="./assets/cpp.svg">    
+      <img height="70" title="CSS3" src="./assets/css.svg"> 
+      <img height="70" title="Dart" src="./assets/dart.svg"> 
+      <img height="70" title="Flutter" src="./assets/flutter.svg"> 
+      <img height="70" title="HTML5" src="./assets/html.svg"> 
+      <img height="70" title="Java" src="./assets/java.svg"> 
+      <img height="70" title="JavaScript" src="./assets/js.svg">
+      <img height="70" title="MySQL" src="./assets/mysql.svg">
+      <img height="70" title="Next.js" src="./assets/next.svg">
+      <img height="70" title="Python" src="./assets/python.svg">
+      <img height="70" title="React" src="./assets/react.svg">
+      <img height="70" title="Spring Boot" src="./assets/spring.svg">
+      <img height="70" title="Svelte" src="./assets/svelte.svg"> 
+      <img height="70" title="TypeScript" src="./assets/typescript.svg">
+      <img height="70" title="Vue.js" src="./assets/vue.svg">
+   </div>
    <br />
 
    <div align="center">

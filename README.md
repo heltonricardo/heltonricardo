@@ -1,13 +1,15 @@
 <html>
    <body>
-   <img align="center" src="./assets/top.png" alt="My Github Stats">
-   <h1 align="center">Bio</h1>
+   <a href="#">
+      <img align="center" src="./assets/top.png" alt="My Github Stats">
+   </a>
 
-   <h5 align="center">
+   <h1 align="center">Bio</h1>
+   <h3 align="center">
       Sou um entusiasta da área de TI e da disseminação do conhecimento.
       <br />
       Atualmente curso Análise e Desenvolvimento de Sistemas e trabalho na área.
-   </h5>
+   </h3>
    <br /><br />
 
    <h1 align="center">Habilidades</h1>
@@ -47,13 +49,13 @@
    <h1 align="center">Entre em contato</h1>
    <h1 align="center">
       <a target="_blank" href="https://www.linkedin.com/in/heltonricardo/">
-         <img src="./assets/LinkedIN.svg" width="40" height="40"/>
+         <img src="./assets/linkedin.svg" width="40" height="40"/>
       </a>
       <a target="_blank" href="mailto:helton_ricardo13@hotmail.com">
-         <img src="./assets/Outlook.svg" width="40" height="40"/>
+         <img src="./assets/outlook.svg" width="40" height="40"/>
       </a>
       <a target="_blank" href="https://www.instagram.com/helton.x/">
-         <img src="./assets/Instagram.svg" width="40" height="40"/>
+         <img src="./assets/instagram.svg" width="40" height="40"/>
       </a>
       <a target="_blank" href="https://heltonricardo.github.io/">
          <img src="./assets/website.svg" width="40" height="40"/>

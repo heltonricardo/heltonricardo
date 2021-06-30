@@ -17,7 +17,7 @@
       <a href="https://github.com/search?q=user%3Aheltonricardo+c">
          <img height="70" title="C" src="./assets/c.svg">
       </a>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+c%2B%2B">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+cpp">
          <img height="70" title="C++" src="./assets/cpp.svg">
       </a>
       <a href="https://github.com/search?q=user%3Aheltonricardo+css">
@@ -29,7 +29,7 @@
       <a href="https://github.com/search?q=user%3Aheltonricardo+flutter">
          <img height="70" title="Flutter" src="./assets/flutter.svg">
       </a>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+html">
+      <a href="https://github.com/heltonricardo?tab=repositories&language=html">
          <img height="70" title="HTML5" src="./assets/html.svg">
       </a>
       <a href="https://github.com/search?q=user%3Aheltonricardo+java">

@@ -4,16 +4,17 @@
       <img align="center" src="./assets/top.png" alt="My Github Stats">
    </a>
 
-   <h1 align="center">Bio</h1>
+   <h1 align="center">BIO</h1>
    <h3 align="center">
-      Sou um entusiasta da área de TI e da disseminação do conhecimento.
+      I am an IT enthusiast aspiring to learn and spread a lot in the field of tech.
       <br /><br />
-      Atualmente curso Análise e Desenvolvimento de Sistemas e trabalho na área.
+      I am currently studying Systems Analysis and Development, improving my
+      career to fullfill my ambitions working in the Software Development area.
    </h3>
    <br />
 
    <div align="center" style="display:inline-block">
-      <h1>Habilidades</h1>
+      <h1>SKILLS</h1>
       <a href="https://github.com/search?q=user%3Aheltonricardo+c">
          <img height="70" title="C" src="./assets/c.svg">
       </a>
@@ -66,7 +67,7 @@
    <br />
 
    <div align="center">
-      <h1>Status</h1>
+      <h1>MY GITHUB</h1>
       <img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api/top-langs/?username=heltonricardo&langs_count=10&layout=compact&theme=algolia" alt="Linguagens mais utilizadas">
       <br /><br />
       <img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=heltonricardo&count_private=true&show_icons=true&hide=issues&theme=algolia" alt="Meus status no GitHub">
@@ -75,7 +76,7 @@
 
    <br />
 
-   <h1 align="center">Contato</h1>
+   <h1 align="center">CONTACT ME</h1>
    <div align="center">
       <a target="_blank" href="https://www.linkedin.com/in/heltonricardo/">
          <img src="./assets/linkedin.svg" width="40" height="40"/>
@@ -91,7 +92,7 @@
       </a>
    </div>
 
-   <a href="#">
+   <a href="">
       <img align="center" src="./assets/bottom.png" alt="My Github Stats">
    </a>
    </body>

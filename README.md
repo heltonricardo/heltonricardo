@@ -14,52 +14,52 @@
 
    <div align="center" style="display:inline-block">
       <h1>Habilidades</h1>
-      <a href="https://github.com/heltonricardo?tab=repositories&language=c">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+c">
          <img height="70" title="C" src="./assets/c.svg">
       </a>
-      <a href="https://github.com/heltonricardo?tab=repositories&language=c%2B%2B">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+c%2B%2B">
          <img height="70" title="C++" src="./assets/cpp.svg">
       </a>
-      <a href="https://github.com/heltonricardo?tab=repositories&language=css">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+css">
          <img height="70" title="CSS3" src="./assets/css.svg">
       </a>
-      <a href="https://github.com/heltonricardo?tab=repositories&language=dart">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+dart">
          <img height="70" title="Dart" src="./assets/dart.svg">
       </a>
-      <a href="https://flutter.dev/">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+flutter">
          <img height="70" title="Flutter" src="./assets/flutter.svg">
       </a>
-      <a href="https://github.com/heltonricardo?tab=repositories&language=html">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+html">
          <img height="70" title="HTML5" src="./assets/html.svg">
       </a>
-      <a href="https://github.com/heltonricardo?tab=repositories&language=java">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+java">
          <img height="70" title="Java" src="./assets/java.svg"> 
       </a>
-      <a href="https://github.com/heltonricardo?tab=repositories&language=javascript">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+javascript">
          <img height="70" title="JavaScript" src="./assets/js.svg">
       </a>
-      <a href="https://github.com/heltonricardo?tab=repositories&language=sql">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+sql">
          <img height="70" title="MySQL" src="./assets/mysql.svg">
       </a>
       <a href="https://nextjs.org/">
          <img height="70" title="Next.js" src="./assets/next.svg">
       </a>
-      <a href="https://github.com/heltonricardo?tab=repositories&language=python">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+python">
          <img height="70" title="Python" src="./assets/python.svg">
       </a>
-      <a href="https://reactjs.org/">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+react">
          <img height="70" title="React" src="./assets/react.svg">
       </a>
-      <a href="https://spring.io/">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+spring">
          <img height="70" title="Spring Boot" src="./assets/spring.svg">
       </a>
-      <a href="https://github.com/heltonricardo?tab=repositories&language=svelte">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+svelte">
          <img height="70" title="Svelte" src="./assets/svelte.svg">
       </a>
-      <a href="https://github.com/heltonricardo?tab=repositories&language=typescript">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+typescript">
          <img height="70" title="TypeScript" src="./assets/typescript.svg">
       </a>
-      <a href="https://github.com/heltonricardo?tab=repositories&language=vue">
+      <a href="https://github.com/search?q=user%3Aheltonricardo+vue">
          <img height="70" title="Vue.js" src="./assets/vue.svg">
       </a>
    </div>

@@ -96,7 +96,7 @@
       </a>
    </div>
 
-   <a href="">
+   <a href="#">
       <img align="center" src="./assets/bottom.png" alt="My Github Stats">
    </a>
    </body>

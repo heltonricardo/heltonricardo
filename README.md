@@ -8,8 +8,7 @@
    <h3 align="center">
       I am an IT enthusiast aspiring to learn and spread a lot in the field of tech.
       <br /><br />
-      I am currently studying Systems Analysis and Development, improving my
-      career to fullfill my ambitions working in the Software Development area.
+      I am improving my career to fulfill my ambitions working in the Software Development area.
    </h3>
    <br />
 

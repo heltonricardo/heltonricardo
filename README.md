@@ -84,13 +84,13 @@
       <a target="_blank" href="https://www.linkedin.com/in/heltonricardo/">
          <img src="./assets/linkedin.svg" width="40" height="40"/>
       </a>
-      <a target="_blank" href="mailto:helton_ricardo13@hotmail.com">
+      <a target="_blank" href="mailto:contato@helton.info">
          <img src="./assets/outlook.svg" width="40" height="40"/>
       </a>
       <a target="_blank" href="https://www.instagram.com/helton.x/">
          <img src="./assets/instagram.svg" width="40" height="40"/>
       </a>
-      <a target="_blank" href="https://heltonricardo.github.io/">
+      <a target="_blank" href="https://helton.info/">
          <img src="./assets/website.svg" width="40" height="40"/>
       </a>
    </div>

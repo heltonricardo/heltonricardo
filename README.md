@@ -1,102 +1,74 @@
-<html>
-   <body>
-   <a href="#">
-      <img align="center" src="./assets/top.png" alt="My Github Stats">
-   </a>
+# Hello, I'm Helton 🤠
+### I'm an IT enthusiast aspiring to learn and spread a lot in the field of tech.
 
-   <h1 align="center">BIO</h1>
-   <h3 align="center">
-      I am an IT enthusiast aspiring to learn and spread a lot in the field of tech.
-      <br /><br />
-      I am improving my career to fulfill my ambitions working in the Software Development area.
-   </h3>
-   <br />
+<a href="https://t.me/heltonricardo" target="_blank">
+    <img align="center" src="assets/telegram.svg" title="Telegram" height="40" width="40" />
+</a>
+<a href="mailto:contato@helton.info" target="_blank">
+    <img align="center" src="assets/email.svg" title="E-mail" height="40" width="40" />
+</a>
+<a href="https://linkedin.com/in/heltonricardo" target="_blank">
+    <img align="center" src="assets/linkedin.svg" title="Telegram" height="40" width="40" />
+</a>
+<a href="https://helton.info" target="_blank">
+    <img align="center" src="assets/site.svg" title="Site" height="40" width="40" />
+</a>
 
-   <div align="center" style="display:inline-block">
-      <h1>SKILLS</h1>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+c">
-         <img height="70" title="C" src="./assets/c.svg">
-      </a>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+cpp">
-         <img height="70" title="C++" src="./assets/cpp.svg">
-      </a>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+css">
-         <img height="70" title="CSS3" src="./assets/css.svg">
-      </a>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+dart">
-         <img height="70" title="Dart" src="./assets/dart.svg">
-      </a>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+flutter">
-         <img height="70" title="Flutter" src="./assets/flutter.svg">
-      </a>
-      <a href="https://github.com/heltonricardo?tab=repositories&language=html">
-         <img height="70" title="HTML5" src="./assets/html.svg">
-      </a>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+java">
-         <img height="70" title="Java" src="./assets/java.svg"> 
-      </a>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+javascript">
-         <img height="70" title="JavaScript" src="./assets/js.svg">
-      </a>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+sql">
-         <img height="70" title="MySQL" src="./assets/mysql.svg">
-      </a>
-      <a href="https://nextjs.org/">
-         <img height="70" title="Next.js" src="./assets/next.svg">
-      </a>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+python">
-         <img height="70" title="Python" src="./assets/python.svg">
-      </a>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+react">
-         <img height="70" title="React" src="./assets/react.svg">
-      </a>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+spring">
-         <img height="70" title="Spring Boot" src="./assets/spring.svg">
-      </a>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+svelte">
-         <img height="70" title="Svelte" src="./assets/svelte.svg">
-      </a>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+typescript">
-         <img height="70" title="TypeScript" src="./assets/typescript.svg">
-      </a>
-      <a href="https://github.com/search?q=user%3Aheltonricardo+vue">
-         <img height="70" title="Vue.js" src="./assets/vue.svg">
-      </a>
-   </div>
-   <br />
+<br />
 
-   <div align="center">
-      <h1>MY GITHUB</h1>
-      <a href="https://github.com/heltonricardo?tab=repositories">
-         <img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api/top-langs/?username=heltonricardo&langs_count=10&layout=compact&theme=algolia" alt="Linguagens mais utilizadas">
-      </a>
-      <br /><br />
-      <a href="https://github.com/heltonricardo?tab=repositories">
-         <img align="center" src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=heltonricardo&count_private=true&show_icons=true&hide=issues&theme=algolia" alt="Meus status no GitHub">
-      </a>
-      </p>
-   </div>
+## Languages and Tools:
+<a href="https://www.cprogramming.com/" target="_blank">
+    <img align="center" src="assets/c.svg" title="C" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank">
+    <img align="center" src="assets/python.svg" title="Python" width="40" height="40"/>
+</a>
+<a href="https://www.java.com" target="_blank">
+    <img align="center" src="assets/java.svg" title="Java" width="40" height="40"/>
+</a>
+<a href="https://spring.io/" target="_blank">
+    <img align="center" src="assets/spring.svg" title="Spring" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank">
+    <img align="center" src="assets/postgresql.svg" title="PostgreSQL" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+    <img align="center" src="assets/react.svg" title="React" width="40" height="40"/>
+</a>
+<a href="https://svelte.dev" target="_blank">
+    <img align="center" src="assets/svelte.svg" title="Svelte" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+    <img align="center" src="assets/css.svg" title="CSS3" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank">
+    <img align="center" src="assets/html.svg" title="HTML5" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img align="center" src="assets/javascript.svg" title="JavaScript" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <img align="center" src="assets/typescript.svg" title="TypeScript" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+    <img align="center" src="assets/docker.svg" title="Docker" width="40" height="40"/>
+</a>
+<a href="https://www.jenkins.io" target="_blank">
+    <img align="center" src="assets/jenkins.svg" title="Jenkins" width="40" height="40"/>
+</a>
+<a href="https://kubernetes.io" target="_blank">
+    <img align="center" src="assets/kubernetes.svg" title="Kubernetes" width="40" height="40"/>
+</a>
 
-   <br />
+<br />
 
-   <h1 align="center">CONTACT ME</h1>
-   <div align="center">
-      <a target="_blank" href="https://www.linkedin.com/in/heltonricardo/">
-         <img src="./assets/linkedin.svg" width="40" height="40"/>
-      </a>
-      <a target="_blank" href="mailto:contato@helton.info">
-         <img src="./assets/outlook.svg" width="40" height="40"/>
-      </a>
-      <a target="_blank" href="https://www.instagram.com/helton.x/">
-         <img src="./assets/instagram.svg" width="40" height="40"/>
-      </a>
-      <a target="_blank" href="https://helton.info/">
-         <img src="./assets/website.svg" width="40" height="40"/>
-      </a>
-   </div>
-
-   <a href="#">
-      <img align="center" src="./assets/bottom.png" alt="My Github Stats">
-   </a>
-   </body>
-</html>
+## My GitHub Stats
+<img title="heltonricardo"
+src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=heltonricardo
+&count_private=true
+&include_all_commits=true
+&show_icons=true
+&custom_title=Helton%20Ricardo
+&hide_border=true
+&border_radius=8
+&theme=algolia" />

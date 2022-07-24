@@ -38,11 +38,11 @@
 <a href="https://github.com/search?l=Svelte&q=user%3Aheltonricardo&type=Repositories">
     <img align="center" src="assets/svelte.svg" title="Svelte" width="40" height="40"/>
 </a>
-<a href="https://www.w3schools.com/css/">
-    <img align="center" src="assets/css.svg" title="CSS3" width="40" height="40"/>
-</a>
 <a href="https://www.w3.org/html/">
     <img align="center" src="assets/html.svg" title="HTML5" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/">
+    <img align="center" src="assets/css.svg" title="CSS3" width="40" height="40"/>
 </a>
 <a href="https://github.com/search?l=JavaScript&q=user%3Aheltonricardo&type=Repositories">
     <img align="center" src="assets/javascript.svg" title="JavaScript" width="40" height="40"/>

@@ -63,5 +63,7 @@
 <br />
 
 ## My GitHub Stats
-<img title="heltonricardo"
-src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=heltonricardo&count_private=true&include_all_commits=true&show_icons=true&custom_title=Helton%20Ricardo&hide_border=true&border_radius=8&theme=algolia" />
+<a href="https://github.com/heltonricardo/github-readme-stats">
+    <img title="Helton Ricardo's GitHub Stats"
+src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=heltonricardo&count_private=true&include_all_commits=true&show_icons=true&custom_title=Helton%20Ricardo&hide_border=true&border_radius=8&theme=tokyonight" />
+</a>

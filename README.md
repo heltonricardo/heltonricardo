@@ -1,4 +1,5 @@
 # Hello, I'm Helton 🤠
+
 ### I'm an IT enthusiast aspiring to learn and spread a lot in the field of tech.
 
 <a href="https://t.me/heltonricardo">
@@ -17,6 +18,7 @@
 <br />
 
 ## My Toolbox
+
 <a href="https://github.com/search?l=C&q=user%3Aheltonricardo&type=Repositories">
     <img align="center" src="assets/c.svg" title="C" width="40" height="40"/>
 </a>
@@ -26,8 +28,11 @@
 <a href="https://github.com/search?l=Java&q=user%3Aheltonricardo&type=Repositories">
     <img align="center" src="assets/java.svg" title="Java" width="40" height="40"/>
 </a>
+<a href="https://quarkus.io/">
+    <img align="center" src="assets/quarkus.svg" title="Quarkus" width="40" height="40"/>
 <a href="https://spring.io/">
     <img align="center" src="assets/spring.svg" title="Spring" width="40" height="40"/>
+</a>
 </a>
 <a href="https://www.postgresql.org">
     <img align="center" src="assets/postgresql.svg" title="PostgreSQL" width="40" height="40"/>
@@ -63,6 +68,7 @@
 <br />
 
 ## My GitHub Stats
+
 <a href="https://github.com/heltonricardo/github-readme-stats">
     <img title="Helton Ricardo's GitHub Stats"
 src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=heltonricardo&count_private=true&include_all_commits=true&show_icons=true&custom_title=Helton%20Ricardo&hide_border=true&border_radius=8&theme=tokyonight" />

@@ -17,9 +17,9 @@
 
 <br />
 
-### 🇧🇷 Sou um entusiasta de TI que aspira aprender e difundir muito na área de tecnologia. Trabalho na área de Desenvolvimento de Software e sou professor particular de programação nas horas vagas.
+### <img src="assets/br.svg" title="PT-BR" width="12" /> Sou um entusiasta de TI que aspira aprender e difundir muito na área de tecnologia. Trabalho na área de Desenvolvimento de Software e sou professor particular de programação nas horas vagas.
 
-### 🇺🇸 I'm an IT enthusiast aspiring to learn and spread a lot in the field of tech. I work in the Software Development area and I am a private programming teacher in my spare time.
+### <img src="assets/us.svg" title="EN" width="12" /> I'm an IT enthusiast aspiring to learn and spread a lot in the field of tech. I work in the Software Development area and I am a private programming teacher in my spare time.
 
 <br />
 

@@ -1,7 +1,5 @@
 # Hello, I'm Helton 🤠
 
-### I'm an IT enthusiast aspiring to learn and spread a lot in the field of tech.
-
 <div style="display:inline-block">
     <a href="https://t.me/heltonricardo">
         <img src="assets/telegram.svg" title="Telegram: heltonricardo" height="40" width="40" />
@@ -16,6 +14,12 @@
         <img src="assets/site.svg" title="Site: helton.info" height="40" width="40" />
     </a>
 </div>
+
+<br />
+
+### 🇧🇷 Sou um entusiasta de TI que aspira aprender e difundir muito na área de tecnologia. Trabalho na área de Desenvolvimento de Software e sou professor particular de programação nas horas vagas.
+
+### 🇺🇸 I'm an IT enthusiast aspiring to learn and spread a lot in the field of tech. I work in the Software Development area and I am a private programming teacher in my spare time.
 
 <br />
 

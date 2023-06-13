@@ -47,11 +47,14 @@
     <a href="https://www.postgresql.org">
         <img src="assets/postgresql.svg" title="PostgreSQL" width="40" height="40"/>
     </a>
+    <a href="https://github.com/search?q=user%3Aheltonricardo+react&type=Repositories">
+        <img src="assets/react.svg" title="React" width="40" height="40"/>
+    </a>
     <a href="https://github.com/search?l=Svelte&q=user%3Aheltonricardo&type=Repositories">
         <img src="assets/svelte.svg" title="Svelte" width="40" height="40"/>
     </a>
-    <a href="https://github.com/search?q=user%3Aheltonricardo+react&type=Repositories">
-        <img src="assets/react.svg" title="React" width="40" height="40"/>
+    <a href="https://nextjs.org/">
+        <img src="assets/next.svg" title="Next.js" width="40" height="40"/>
     </a>
     <a href="https://www.w3.org/html/">
         <img src="assets/html.svg" title="HTML5" width="40" height="40"/>

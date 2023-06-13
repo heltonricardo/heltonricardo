@@ -13,6 +13,9 @@
     <a href="https://helton.info">
         <img src="assets/site.svg" title="Site: helton.info" height="40" width="40" />
     </a>
+    <a href="https://medium.com/@heltonricardo">
+        <img src="assets/medium.svg" title="Medium: @heltonricardo" height="40" width="40" />
+    </a>
 </div>
 
 <br />

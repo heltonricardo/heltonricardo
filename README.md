@@ -28,59 +28,38 @@
 
 ## My Toolbox
 
-<div style="display:inline-block">
-    <a href="https://github.com/search?l=C&q=user%3Aheltonricardo&type=Repositories">
-        <img src="assets/c.svg" title="C" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/search?l=Python&q=user%3Aheltonricardo&type=Repositories">
-        <img src="assets/python.svg" title="Python" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/search?l=Java&q=user%3Aheltonricardo&type=Repositories">
-        <img src="assets/java.svg" title="Java" width="40" height="40"/>
-    </a>
-    <a href="https://quarkus.io/">
-        <img src="assets/quarkus.svg" title="Quarkus" width="40" height="40"/>
-    <a href="https://spring.io/">
-        <img src="assets/spring.svg" title="Spring" width="40" height="40"/>
-    </a>
-    </a>
-    <a href="https://www.postgresql.org">
-        <img src="assets/postgresql.svg" title="PostgreSQL" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/search?q=user%3Aheltonricardo+react&type=Repositories">
-        <img src="assets/react.svg" title="React" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/search?l=Svelte&q=user%3Aheltonricardo&type=Repositories">
-        <img src="assets/svelte.svg" title="Svelte" width="40" height="40"/>
-    </a>
-    <a href="https://nextjs.org/">
-        <img src="assets/next.svg" title="Next.js" width="40" height="40"/>
-    </a>
-    <a href="https://remix.run/">
-        <img src="assets/remix.svg" title="Remix" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/">
-        <img src="assets/html.svg" title="HTML5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/">
-        <img src="assets/css.svg" title="CSS3" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/search?l=JavaScript&q=user%3Aheltonricardo&type=Repositories">
-        <img src="assets/javascript.svg" title="JavaScript" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/search?l=TypeScript&q=user%3Aheltonricardo&type=Repositories">
-        <img src="assets/typescript.svg" title="TypeScript" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/">
-        <img src="assets/docker.svg" title="Docker" width="40" height="40"/>
-    </a>
-    <a href="https://www.jenkins.io">
-        <img src="assets/jenkins.svg" title="Jenkins" width="40" height="40"/>
-    </a>
-    <a href="https://kubernetes.io">
-        <img src="assets/kubernetes.svg" title="Kubernetes" width="40" height="40"/>
-    </a>
-</div>
+<section style="display: flex; flex-direction: column; align-items: flex-start;">
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <a href="https://github.com/search?l=C&q=user%3Aheltonricardo&type=Repositories">
+            <img src="assets/c.svg" title="C" width="25" height="25"/>
+        </a>
+        <span style="margin-left: 5px">C</span>
+    </div>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <a href="https://github.com/search?l=Python&q=user%3Aheltonricardo&type=Repositories">
+            <img src="assets/python.svg" title="Python" width="25" height="25"/>
+        </a>
+        <span style="margin-left: 5px">Python</span>
+    </div>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <a href="https://github.com/search?l=Java&q=user%3Aheltonricardo&type=Repositories">
+            <img src="assets/java.svg" title="Java" width="25" height="25"/>
+        </a>
+        <span style="margin-left: 5px">Java</span>
+    </div>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <a href="https://quarkus.io/">
+            <img src="assets/quarkus.svg" title="Quarkus" width="25" height="25"/>
+        </a>
+        <span style="margin-left: 5px">Quarkus</span>
+    </div>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <a href="https://spring.io/">
+            <img src="assets/spring.svg" title="Spring" width="25" height="25"/>
+        </a>
+        <span style="margin-left: 5px">Spring</span>
+    </div>
+</section>
 
 <br />
 

@@ -56,6 +56,9 @@
     <a href="https://nextjs.org/">
         <img src="assets/next.svg" title="Next.js" width="40" height="40"/>
     </a>
+    <a href="https://remix.run/">
+        <img src="assets/remix.svg" title="Remix" width="40" height="40"/>
+    </a>
     <a href="https://www.w3.org/html/">
         <img src="assets/html.svg" title="HTML5" width="40" height="40"/>
     </a>

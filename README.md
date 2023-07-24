@@ -20,9 +20,9 @@
 
 <br />
 
-### <img src="assets/br.svg" title="PT-BR" width="12" /> Sou um entusiasta de TI que aspira aprender e difundir muito no campo da tecnologia. Trabalho na área de Desenvolvimento de Software e sou professor particular de programação nas horas vagas.
+### <img src="assets/br.svg" title="PT-BR" width="12" /> Sou entusiasta de TI, focado em Desenvolvimento de Software e pós-graduando em Inteligência Artificial e Aprendizado de Máquina. Busco aprender, crescer e compartilhar conhecimentos nesses campos para contribuir com projetos inovadores e impactantes. Minha paixão é explorar o mundo da tecnologia e inspirar outros a se envolverem nessa jornada emocionante.
 
-### <img src="assets/us.svg" title="EN" width="12" /> I'm an IT enthusiast aspiring to learn and spread a lot in the field of tech. I work in the Software Development area and I am a private programming teacher in my spare time.
+### <img src="assets/us.svg" title="EN" width="12" /> I am a IT enthusiast, focused on Software Development, and currently pursuing a postgraduate degree in Artificial Intelligence and Machine Learning. My goal is to learn, grow, and share knowledge in these fields to contribute to innovative and impactful projects. I am passionate about exploring the world of technology and inspiring others to join this exciting journey.
 
 <br />
 

@@ -26,7 +26,7 @@
 
 <br />
 
-## My Toolbox
+## Toolbox
 
 <a href="https://github.com/search?l=C&q=user%3Aheltonricardo&type=Repositories">
     <img src="https://img.shields.io/badge/C-222?logo=c&logoColor=A8B9CC&style=flat-square" title="C" height="30" />
@@ -46,18 +46,6 @@
 <a href="https://www.postgresql.org">
     <img src="https://img.shields.io/badge/POSTGRESQL-222?logo=postgresql&logoColor=4169E1&style=flat-square" title="PostgreSQL" height="30" />
 </a>
-<a href="https://github.com/search?q=user%3Aheltonricardo+react&type=Repositories">
-    <img src="https://img.shields.io/badge/REACT-222?logo=react&logoColor=61DAFB&style=flat-square" title="React" height="30" />
-</a>
-<a href="https://github.com/search?l=Svelte&q=user%3Aheltonricardo&type=Repositories">
-    <img src="https://img.shields.io/badge/SVELTE-222?logo=svelte&logoColor=FF3E00&style=flat-square" title="Svelte" height="30" />
-</a>
-<a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/NEXT.JS-222?logo=next.js&logoColor=white&style=flat-square" title="Next.js" height="30" />
-</a>
-<a href="https://remix.run/">
-    <img src="https://img.shields.io/badge/REMIX-222?logo=remix&logoColor=white&style=flat-square" title="Remix" height="30" />
-</a>
 <a href="https://www.w3.org/html/">
     <img src="https://img.shields.io/badge/HTML_5-222?logo=html5&logoColor=E34F26&style=flat-square" title="HTML 5" height="30" />
 </a>
@@ -69,6 +57,18 @@
 </a>
 <a href="https://github.com/search?l=TypeScript&q=user%3Aheltonricardo&type=Repositories">
     <img src="https://img.shields.io/badge/TYPESCRIPT-222?logo=typescript&logoColor=3178C6&style=flat-square" title="TypeScript" height="30" />
+</a>
+<a href="https://github.com/search?q=user%3Aheltonricardo+react&type=Repositories">
+    <img src="https://img.shields.io/badge/REACT-222?logo=react&logoColor=61DAFB&style=flat-square" title="React" height="30" />
+</a>
+<a href="https://github.com/search?l=Svelte&q=user%3Aheltonricardo&type=Repositories">
+    <img src="https://img.shields.io/badge/SVELTE-222?logo=svelte&logoColor=FF3E00&style=flat-square" title="Svelte" height="30" />
+</a>
+<a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/NEXT.JS-222?logo=next.js&logoColor=white&style=flat-square" title="Next.js" height="30" />
+</a>
+<a href="https://remix.run/">
+    <img src="https://img.shields.io/badge/REMIX-222?logo=remix&logoColor=white&style=flat-square" title="Remix" height="30" />
 </a>
 <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/DOCKER-222?logo=docker&logoColor=2496ED&style=flat-square" title="Docker" height="30" />
@@ -84,7 +84,7 @@
 <br />
 <br />
 
-## My GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/heltonricardo/github-readme-stats">
     <img title="Helton Ricardo's GitHub Stats"

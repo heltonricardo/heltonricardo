@@ -28,65 +28,65 @@
 
 ## My Toolbox
 
-<div style="display:inline-block">
-    <a href="https://github.com/search?l=C&q=user%3Aheltonricardo&type=Repositories">
-        <img src="assets/c.svg" title="C" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/search?l=Python&q=user%3Aheltonricardo&type=Repositories">
-        <img src="assets/python.svg" title="Python" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/search?l=Java&q=user%3Aheltonricardo&type=Repositories">
-        <img src="assets/java.svg" title="Java" width="40" height="40"/>
-    </a>
-    <a href="https://quarkus.io/">
-        <img src="assets/quarkus.svg" title="Quarkus" width="40" height="40"/>
-    <a href="https://spring.io/">
-        <img src="assets/spring.svg" title="Spring" width="40" height="40"/>
-    </a>
-    </a>
-    <a href="https://www.postgresql.org">
-        <img src="assets/postgresql.svg" title="PostgreSQL" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/search?q=user%3Aheltonricardo+react&type=Repositories">
-        <img src="assets/react.svg" title="React" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/search?l=Svelte&q=user%3Aheltonricardo&type=Repositories">
-        <img src="assets/svelte.svg" title="Svelte" width="40" height="40"/>
-    </a>
-    <a href="https://nextjs.org/">
-        <img src="assets/next.svg" title="Next.js" width="40" height="40"/>
-    </a>
-    <a href="https://remix.run/">
-        <img src="assets/remix.svg" title="Remix" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/">
-        <img src="assets/html.svg" title="HTML5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/">
-        <img src="assets/css.svg" title="CSS3" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/search?l=JavaScript&q=user%3Aheltonricardo&type=Repositories">
-        <img src="assets/javascript.svg" title="JavaScript" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/search?l=TypeScript&q=user%3Aheltonricardo&type=Repositories">
-        <img src="assets/typescript.svg" title="TypeScript" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/">
-        <img src="assets/docker.svg" title="Docker" width="40" height="40"/>
-    </a>
-    <a href="https://www.jenkins.io">
-        <img src="assets/jenkins.svg" title="Jenkins" width="40" height="40"/>
-    </a>
-    <a href="https://kubernetes.io">
-        <img src="assets/kubernetes.svg" title="Kubernetes" width="40" height="40"/>
-    </a>
-</div>
+<a href="https://github.com/search?l=C&q=user%3Aheltonricardo&type=Repositories">
+    <img src="https://img.shields.io/badge/C-111?logo=c&logoColor=A8B9CC&style=flat-square" title="C" height="35" />
+</a>
+<a href="https://github.com/search?l=Python&q=user%3Aheltonricardo&type=Repositories">
+    <img src="https://img.shields.io/badge/PYTHON-111?logo=python&logoColor=FFD141&style=flat-square" title="Python" height="35" />
+</a>
+<a href="https://github.com/search?l=java&q=user%3Aheltonricardo&type=Repositories">
+    <img src="https://img.shields.io/badge/JAVA-111?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjRUEyRDJFIiBkPSJNNDcuNjE3IDk4LjEyYy0xOS4xOTIgNS4zNjIgMTEuNjc3IDE2LjQzOSAzNi4xMTUgNS45NjktNC4wMDMtMS41NTYtNi44NzQtMy4zNTEtNi44NzQtMy4zNTEtMTAuODk3IDIuMDYtMTUuOTUyIDIuMjIyLTI1Ljg0NCAxLjA5Mi04LjE2NC0uOTM1LTMuMzk3LTMuNzEtMy4zOTctMy43MXptMzMuMTg5LTEwLjQ2Yy0xNC40NDQgMi43NzktMjIuNzg3IDIuNjktMzMuMzU0IDEuNi04LjE3MS0uODQ1LTIuODIyLTQuODA1LTIuODIyLTQuODA1LTIxLjEzNyA3LjAxNiAxMS43NjcgMTQuOTc3IDQxLjMwOSA2LjMzNi0zLjE0LTEuMTA2LTUuMTMzLTMuMTMxLTUuMTMzLTMuMTMxem0xMS4zMTktNjAuNTc1Yy4wMDEgMC00Mi43MzEgMTAuNjY5LTIyLjMyMyAzNC4xODcgNi4wMjQgNi45MzUtMS41OCAxMy4xNy0xLjU4IDEzLjE3czE1LjI4OS03Ljg5MSA4LjI2OS0xNy43NzdjLTYuNTU5LTkuMjE1LTExLjU4Ny0xMy43OTMgMTUuNjM0LTI5LjU4em05Ljk5OCA4MS4xNDRzMy41MjkgMi45MS0zLjg4OCA1LjE1OWMtMTQuMTAyIDQuMjcyLTU4LjcwNiA1LjU2LTcxLjA5NS4xNzEtNC40NS0xLjkzOCAzLjg5OS00LjYyNSA2LjUyNi01LjE5MiAyLjczOS0uNTkzIDQuMzAzLS40ODUgNC4zMDMtLjQ4NS00Ljk1Mi0zLjQ4Ny0zMi4wMTMgNi44NS0xMy43NDIgOS44MTUgNDkuODIxIDguMDc2IDkwLjgxNy0zLjYzNyA3Ny44OTYtOS40Njh6TTg1IDc3Ljg5NmMyLjM5NS0xLjYzNCA1LjcwMy0zLjA1MyA1LjcwMy0zLjA1M3MtOS40MjQgMS42ODUtMTguODEzIDIuNDc0Yy0xMS40OTQuOTY0LTIzLjgyMyAxLjE1NC0zMC4wMTIuMzI2LTE0LjY1Mi0xLjk1OSA4LjAzMy03LjM0OCA4LjAzMy03LjM0OHMtOC44MTItLjU5Ni0xOS42NDQgNC42NDRDMTcuNDU1IDgxLjEzNCA2MS45NTggODMuOTU4IDg1IDc3Ljg5NnptNS42MDkgMTUuMTQ1Yy0uMTA4LjI5LS40NjguNjE2LS40NjguNjE2IDMxLjI3My04LjIyMSAxOS43NzUtMjguOTc5IDQuODIyLTIzLjcyNS0xLjMxMi40NjQtMiAxLjU0My0yIDEuNTQzcy44MjktLjMzNCAyLjY3OC0uNzJjNy41NTktMS41NzUgMTguMzg5IDEwLjExOS01LjAzMiAyMi4yODZ6TTY0LjE4MSA3MC4wNjljLTQuNjE0LTEwLjQyOS0yMC4yNi0xOS41NTMuMDA3LTM1LjU1OUM4OS40NTkgMTQuNTYzIDc2LjQ5MiAxLjU4NyA3Ni40OTIgMS41ODdjNS4yMyAyMC42MDgtMTguNDUxIDI2LjgzMy0yNi45OTkgMzkuNjY3LTUuODIxIDguNzQ1IDIuODU3IDE4LjE0MiAxNC42ODggMjguODE1em0yNy4yNzQgNTEuNzQ4Yy0xOS4xODcgMy42MTItNDIuODU0IDMuMTkxLTU2Ljg4Ny44NzQgMCAwIDIuODc0IDIuMzggMTcuNjQ2IDMuMzMxIDIyLjQ3NiAxLjQzNyA1Ny0uOCA1Ny44MTYtMTEuNDM2LjAwMSAwLTEuNTcgNC4wMzItMTguNTc1IDcuMjMxeiIvPjwvc3ZnPg==&style=flat-square" title="Java" height="35" />
+</a>
+<a href="https://quarkus.io/">
+    <img src="https://img.shields.io/badge/QUARKUS-111?logo=quarkus&logoColor=4695EB&style=flat-square" title="Quarkus" height="35"/>
+<a href="https://spring.io/">
+    <img src="https://img.shields.io/badge/SPRING-111?logo=spring&logoColor=6DB33F&style=flat-square" title="Spring" height="35" />
+</a>
+</a>
+<a href="https://www.postgresql.org">
+    <img src="https://img.shields.io/badge/POSTGRESQL-111?logo=postgresql&logoColor=4169E1&style=flat-square" title="PostgreSQL" height="35" />
+</a>
+<a href="https://github.com/search?q=user%3Aheltonricardo+react&type=Repositories">
+    <img src="https://img.shields.io/badge/REACT-111?logo=react&logoColor=61DAFB&style=flat-square" title="React" height="35" />
+</a>
+<a href="https://github.com/search?l=Svelte&q=user%3Aheltonricardo&type=Repositories">
+    <img src="https://img.shields.io/badge/SVELTE-111?logo=svelte&logoColor=FF3E00&style=flat-square" title="Svelte" height="35" />
+</a>
+<a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/NEXT.JS-111?logo=next.js&logoColor=white&style=flat-square" title="Next.js" height="35" />
+</a>
+<a href="https://remix.run/">
+    <img src="https://img.shields.io/badge/REMIX-111?logo=remix&logoColor=white&style=flat-square" title="Remix" height="35" />
+</a>
+<a href="https://www.w3.org/html/">
+    <img src="https://img.shields.io/badge/HTML_5-111?logo=html5&logoColor=E34F26&style=flat-square" title="HTML 5" height="35" />
+</a>
+<a href="https://www.w3schools.com/css/">
+    <img src="https://img.shields.io/badge/CSS_3-111?logo=css3&logoColor=1572B6&style=flat-square" title="CSS 3" height="35" />
+</a>
+<a href="https://github.com/search?l=JavaScript&q=user%3Aheltonricardo&type=Repositories">
+    <img src="https://img.shields.io/badge/JAVASCRIPT-111?logo=javascript&logoColor=F7DF1E&style=flat-square" title="JavaScript" height="35" />
+</a>
+<a href="https://github.com/search?l=TypeScript&q=user%3Aheltonricardo&type=Repositories">
+    <img src="https://img.shields.io/badge/TYPESCRIPT-111?logo=typescript&logoColor=3178C6&style=flat-square" title="TypeScript" height="35" />
+</a>
+<a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/DOCKER-111?logo=docker&logoColor=2496ED&style=flat-square" title="Docker" height="35" />
+</a>
+<a href="https://www.jenkins.io">
+    <img src="https://img.shields.io/badge/JENKINS-111?logo=jenkins&logoColor=D24939&style=flat-square" title="Jenkins" height="35" />
+</a>
+<a href="https://kubernetes.io">
+    <img src="https://img.shields.io/badge/KUBERNETES-111?logo=kubernetes&logoColor=326CE5&style=flat-square" title="Kubernetes" height="35" />
+</a>
 
+<br />
+<br />
 <br />
 
 ## My GitHub Stats
 
 <a href="https://github.com/heltonricardo/github-readme-stats">
     <img title="Helton Ricardo's GitHub Stats"
-src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=heltonricardo&count_private=true&include_all_commits=true&show_icons=true&custom_title=Helton%20Ricardo&hide=contribs&hide_border=true&border_radius=8&theme=tokyonight&disable_animations=true" />
+src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=heltonricardo&count_private=true&include_all_commits=true&show_icons=true&custom_title=Helton%20Ricardo&hide=contribs&hide_border=true&border_radius=8&theme=tokyonight&disable_animations=true&border_radius=0&bg_color=111" />
 </a>

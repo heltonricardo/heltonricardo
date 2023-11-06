@@ -46,10 +46,10 @@
 <a href="https://www.postgresql.org">
     <img src="https://img.shields.io/badge/POSTGRESQL-222?logo=postgresql&logoColor=4169E1&style=flat-square" title="PostgreSQL" height="30" />
 </a>
-<a href="https://www.w3.org/html/">
+<a href="https://github.com/search?l=HTML&q=user%3Aheltonricardo&type=Repositories">
     <img src="https://img.shields.io/badge/HTML_5-222?logo=html5&logoColor=E34F26&style=flat-square" title="HTML 5" height="30" />
 </a>
-<a href="https://www.w3schools.com/css/">
+<a href="https://github.com/search?l=CSS&q=user%3Aheltonricardo&type=Repositories">
     <img src="https://img.shields.io/badge/CSS_3-222?logo=css3&logoColor=1572B6&style=flat-square" title="CSS 3" height="30" />
 </a>
 <a href="https://github.com/search?l=JavaScript&q=user%3Aheltonricardo&type=Repositories">

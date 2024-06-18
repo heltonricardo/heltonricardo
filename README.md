@@ -2,19 +2,22 @@
 
 <div style="display:inline-block">
     <a href="https://t.me/heltonricardo">
-        <img src="assets/telegram.svg" title="Telegram: heltonricardo" height="33" width="33" />
+       <img src="assets/telegram.svg" title="Telegram: heltonricardo" height="33" width="33" />
     </a>
     <a href="mailto:helton.contato@proton.me">
-        <img src="assets/email.svg" title="E-mail: contato@helton.info" height="33" width="33" />
+       <img src="assets/email.svg" title="E-mail: contato@helton.info" height="33" width="33" />
     </a>
     <a href="https://linkedin.com/in/heltonricardo">
-        <img src="assets/linkedin.svg" title="LinkedIn: heltonricardo" height="33" width="33" />
+       <img src="assets/linkedin.svg" title="LinkedIn: heltonricardo" height="33" width="33" />
     </a>
     <a href="https://helton.info">
-        <img src="assets/site.svg" title="Site: helton.info" height="33" width="33" />
+       <img src="assets/site.svg" title="Site: helton.info" height="33" width="33" />
     </a>
     <a href="https://medium.com/@heltonricardo">
-        <img src="assets/medium.svg" title="Medium: @heltonricardo" height="33" width="33" />
+       <picture>
+          <source media="(prefers-color-scheme: light)" srcset="assets/medium_for_light.svg" />
+          <img src="assets/medium_for_dark.svg" title="Medium: @heltonricardo" height="33" width="33" />
+       </picture>
     </a>
 </div>
 

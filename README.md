@@ -139,7 +139,7 @@
 
 <a href="https://github.com/heltonricardo/github-readme-stats">
    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=heltonricardo&bg_color=222&border_radius=0&count_private=true&custom_title=Helton%20Ricardo%20%F0%9F%A4%A0&disable_animations=true&hide_border=true&include_all_commits=true&rank_icon=github&show_icons=true&theme=tokyonight" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=heltonricardo&bg_color=e6e6e6&border_radius=0&count_private=true&custom_title=Helton%20Ricardo%20%F0%9F%A4%A0&disable_animations=true&hide_border=true&include_all_commits=true&rank_icon=github&show_icons=true&theme=buefy" />
       <img title="Helton Ricardo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=heltonricardo&bg_color=0d1117&border_radius=0&count_private=true&custom_title=Helton%20Ricardo%20%F0%9F%A4%A0&disable_animations=true&hide_border=true&include_all_commits=true&rank_icon=github&show_icons=true&theme=tokyonight" />
    </picture>
 </a>

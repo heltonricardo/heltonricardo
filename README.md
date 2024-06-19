@@ -142,7 +142,7 @@
 
 <a href="https://github.com/heltonricardo/github-readme-stats">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=heltonricardo&bg_color=fff&border_radius=0&count_private=true&custom_title=Helton%20Ricardo%20%F0%9F%A4%A0&disable_animations=true&hide_border=true&include_all_commits=true&rank_icon=github&show_icons=true&theme=buefy" />
-        <img title="Helton Ricardo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=heltonricardo&bg_color=0d1117&border_radius=0&count_private=true&custom_title=Helton%20Ricardo%20%F0%9F%A4%A0&disable_animations=true&hide_border=true&include_all_commits=true&rank_icon=github&show_icons=true&theme=tokyonight" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=heltonricardo&bg_color=fff&border_radius=0&show_icons=true&hide_border=true&rank_icon=github&theme=buefy&count_private=true&number_format=long&disable_animations=true&include_all_commits=true&custom_title=Helton%20Ricardo%20%F0%9F%A4%A0&show=discussions_started,prs_merged,prs_merged_percentage" />
+        <img title="Helton Ricardo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=heltonricardo&bg_color=0d1117&border_radius=0&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&count_private=true&number_format=long&disable_animations=true&include_all_commits=true&custom_title=Helton%20Ricardo%20%F0%9F%A4%A0&show=discussions_started,prs_merged,prs_merged_percentage" />
     </picture>
 </a>

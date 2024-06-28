@@ -105,8 +105,8 @@
 </a>
 <a href="https://nextjs.org/">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/NEXT.JS-fff?logo=next.js&logoColor=222&style=flat-square" />
-        <img src="https://img.shields.io/badge/NEXT.JS-0d1117?logo=next.js&logoColor=white&style=flat-square" title="Next.js" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/NEXT-fff?logo=next.js&logoColor=222&style=flat-square" />
+        <img src="https://img.shields.io/badge/NEXT-0d1117?logo=next.js&logoColor=white&style=flat-square" title="Next.js" height="30" />
     </picture>
 </a>
 <a href="https://remix.run/">

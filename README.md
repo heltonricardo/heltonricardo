@@ -39,8 +39,8 @@
 </a>
 <a href="https://github.com/search?l=Python&q=user%3Aheltonricardo&type=Repositories">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PYTHON-fff?logo=python&logoColor=FFD141&style=flat-square" />
-        <img src="https://img.shields.io/badge/PYTHON-0d1117?logo=python&logoColor=FFD141&style=flat-square" title="Python" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PYTHON-fff?logo=python&logoColor=3776AB&style=flat-square" />
+        <img src="https://img.shields.io/badge/PYTHON-0d1117?logo=python&logoColor=3776AB&style=flat-square" title="Python" height="30" />
     </picture>
 </a>
 <a href="https://github.com/search?l=java&q=user%3Aheltonricardo&type=Repositories">

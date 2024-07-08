@@ -33,14 +33,14 @@
 
 <a href="https://github.com/search?l=C&q=user%3Aheltonricardo&type=Repositories">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C-fff?logo=c&logoColor=A8B9CC&style=flat-square" />
-        <img src="https://img.shields.io/badge/C-0d1117?logo=c&logoColor=A8B9CC&style=flat-square" title="C" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C-fff?logo=c&logoColor=a8b9cc&style=flat-square" />
+        <img src="https://img.shields.io/badge/C-0d1117?logo=c&logoColor=a8b9cc&style=flat-square" title="C" height="30" />
     </picture>
 </a>
 <a href="https://github.com/search?l=Python&q=user%3Aheltonricardo&type=Repositories">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PYTHON-fff?logo=python&logoColor=3776AB&style=flat-square" />
-        <img src="https://img.shields.io/badge/PYTHON-0d1117?logo=python&logoColor=3776AB&style=flat-square" title="Python" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PYTHON-fff?logo=python&logoColor=ffdf5b&style=flat-square" />
+        <img src="https://img.shields.io/badge/PYTHON-0d1117?logo=python&logoColor=ffdf5b&style=flat-square" title="Python" height="30" />
     </picture>
 </a>
 <a href="https://github.com/search?l=java&q=user%3Aheltonricardo&type=Repositories">
@@ -51,56 +51,56 @@
 </a>
 <a href="https://quarkus.io/">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/QUARKUS-fff?logo=quarkus&logoColor=4695EB&style=flat-square" />
-        <img src="https://img.shields.io/badge/QUARKUS-0d1117?logo=quarkus&logoColor=4695EB&style=flat-square" title="Quarkus" height="30"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/QUARKUS-fff?logo=quarkus&logoColor=4695eb&style=flat-square" />
+        <img src="https://img.shields.io/badge/QUARKUS-0d1117?logo=quarkus&logoColor=4695eb&style=flat-square" title="Quarkus" height="30"/>
     </picture>
 <a href="https://spring.io/">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SPRING-fff?logo=spring&logoColor=6DB33F&style=flat-square" />
-        <img src="https://img.shields.io/badge/SPRING-0d1117?logo=spring&logoColor=6DB33F&style=flat-square" title="Spring" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SPRING-fff?logo=spring&logoColor=6db33f&style=flat-square" />
+        <img src="https://img.shields.io/badge/SPRING-0d1117?logo=spring&logoColor=6db33f&style=flat-square" title="Spring" height="30" />
     </picture>
 </a>
 </a>
 <a href="https://www.postgresql.org">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/POSTGRESQL-fff?logo=postgresql&logoColor=4169E1&style=flat-square" />
-        <img src="https://img.shields.io/badge/POSTGRESQL-0d1117?logo=postgresql&logoColor=4169E1&style=flat-square" title="PostgreSQL" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/POSTGRESQL-fff?logo=postgresql&logoColor=4169e1&style=flat-square" />
+        <img src="https://img.shields.io/badge/POSTGRESQL-0d1117?logo=postgresql&logoColor=4169e1&style=flat-square" title="PostgreSQL" height="30" />
     </picture>
 </a>
 <a href="https://github.com/search?l=HTML&q=user%3Aheltonricardo&type=Repositories">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML_5-fff?logo=html5&logoColor=E34F26&style=flat-square" />
-        <img src="https://img.shields.io/badge/HTML_5-0d1117?logo=html5&logoColor=E34F26&style=flat-square" title="HTML 5" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML_5-fff?logo=html5&logoColor=e34f26&style=flat-square" />
+        <img src="https://img.shields.io/badge/HTML_5-0d1117?logo=html5&logoColor=e34f26&style=flat-square" title="HTML 5" height="30" />
     </picture>
 </a>
 <a href="https://github.com/search?l=CSS&q=user%3Aheltonricardo&type=Repositories">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS_3-fff?logo=css3&logoColor=1572B6&style=flat-square" />
-        <img src="https://img.shields.io/badge/CSS_3-0d1117?logo=css3&logoColor=1572B6&style=flat-square" title="CSS 3" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS_3-fff?logo=css3&logoColor=1572b6&style=flat-square" />
+        <img src="https://img.shields.io/badge/CSS_3-0d1117?logo=css3&logoColor=1572b6&style=flat-square" title="CSS 3" height="30" />
     </picture>
 </a>
 <a href="https://github.com/search?l=JavaScript&q=user%3Aheltonricardo&type=Repositories">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JAVASCRIPT-fff?logo=javascript&logoColor=F7DF1E&style=flat-square" />
-        <img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?logo=javascript&logoColor=F7DF1E&style=flat-square" title="JavaScript" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JAVASCRIPT-fff?logo=javascript&logoColor=f7df1e&style=flat-square" />
+        <img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?logo=javascript&logoColor=f7df1e&style=flat-square" title="JavaScript" height="30" />
     </picture>
 </a>
 <a href="https://github.com/search?l=TypeScript&q=user%3Aheltonricardo&type=Repositories">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TYPESCRIPT-fff?logo=typescript&logoColor=3178C6&style=flat-square" />
-        <img src="https://img.shields.io/badge/TYPESCRIPT-0d1117?logo=typescript&logoColor=3178C6&style=flat-square" title="TypeScript" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TYPESCRIPT-fff?logo=typescript&logoColor=3178c6&style=flat-square" />
+        <img src="https://img.shields.io/badge/TYPESCRIPT-0d1117?logo=typescript&logoColor=3178c6&style=flat-square" title="TypeScript" height="30" />
     </picture>
 </a>
 <a href="https://github.com/search?l=Svelte&q=user%3Aheltonricardo&type=Repositories">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SVELTE-fff?logo=svelte&logoColor=FF3E00&style=flat-square" />
-        <img src="https://img.shields.io/badge/SVELTE-0d1117?logo=svelte&logoColor=FF3E00&style=flat-square" title="Svelte" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SVELTE-fff?logo=svelte&logoColor=ff3e00&style=flat-square" />
+        <img src="https://img.shields.io/badge/SVELTE-0d1117?logo=svelte&logoColor=ff3e00&style=flat-square" title="Svelte" height="30" />
     </picture>
 </a>
 <a href="https://github.com/search?q=user%3Aheltonricardo+react&type=Repositories">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/REACT-fff?logo=react&logoColor=61DAFB&style=flat-square" />
-        <img src="https://img.shields.io/badge/REACT-0d1117?logo=react&logoColor=61DAFB&style=flat-square" title="React" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/REACT-fff?logo=react&logoColor=61dafb&style=flat-square" />
+        <img src="https://img.shields.io/badge/REACT-0d1117?logo=react&logoColor=61dafb&style=flat-square" title="React" height="30" />
     </picture>
 </a>
 <a href="https://nextjs.org/">
@@ -117,20 +117,20 @@
 </a>
 <a href="https://www.docker.com/">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/DOCKER-fff?logo=docker&logoColor=2496ED&style=flat-square" />
-        <img src="https://img.shields.io/badge/DOCKER-0d1117?logo=docker&logoColor=2496ED&style=flat-square" title="Docker" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/DOCKER-fff?logo=docker&logoColor=2496ed&style=flat-square" />
+        <img src="https://img.shields.io/badge/DOCKER-0d1117?logo=docker&logoColor=2496ed&style=flat-square" title="Docker" height="30" />
     </picture>
 </a>
 <a href="https://www.jenkins.io">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JENKINS-fff?logo=jenkins&logoColor=D24939&style=flat-square" />
-        <img src="https://img.shields.io/badge/JENKINS-0d1117?logo=jenkins&logoColor=D24939&style=flat-square" title="Jenkins" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JENKINS-fff?logo=jenkins&logoColor=d24939&style=flat-square" />
+        <img src="https://img.shields.io/badge/JENKINS-0d1117?logo=jenkins&logoColor=d24939&style=flat-square" title="Jenkins" height="30" />
     </picture>
 </a>
 <a href="https://kubernetes.io">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/KUBERNETES-fff?logo=kubernetes&logoColor=326CE5&style=flat-square" />
-        <img src="https://img.shields.io/badge/KUBERNETES-0d1117?logo=kubernetes&logoColor=326CE5&style=flat-square" title="Kubernetes" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/KUBERNETES-fff?logo=kubernetes&logoColor=326ce5&style=flat-square" />
+        <img src="https://img.shields.io/badge/KUBERNETES-0d1117?logo=kubernetes&logoColor=326ce5&style=flat-square" title="Kubernetes" height="30" />
     </picture>
 </a>
 

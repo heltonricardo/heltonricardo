@@ -23,9 +23,9 @@
 
 <br />
 
-<img src="assets/br.svg" title="PT-BR" width="10" /> Sou entusiasta de TI, pós-graduado em Inteligência Artificial e Aprendizado de Máquina, e focado em **Desenvolvimento de Software**. Busco aprender, crescer e compartilhar conhecimentos nesses campos para contribuir com projetos inovadores e impactantes. Minha paixão é explorar o mundo da tecnologia e inspirar outros a se envolverem nessa jornada emocionante.
+<a href="https://findtheinvisiblecow.com/"><img src="assets/br.svg" title="PT-BR" width="10" /></a> Sou entusiasta de TI, pós-graduado em Inteligência Artificial e Aprendizado de Máquina, e focado em **Desenvolvimento de Software**. Busco aprender, crescer e compartilhar conhecimentos nesses campos para contribuir com projetos inovadores e impactantes. Minha paixão é explorar o mundo da tecnologia e inspirar outros a se envolverem nessa jornada emocionante.
 
-<img src="assets/us.svg" title="EN" width="10" /> I am an IT enthusiast, with a postgraduate degree in Artificial Intelligence and Machine Learning, and focused on **Software Development**. My goal is to learn, grow, and share knowledge in these fields to contribute to innovative and impactful projects. I am passionate about exploring the world of technology and inspiring others to join this exciting journey.
+<a href="https://pointerpointer.com/"><img src="assets/us.svg" title="EN" width="10" /></a> I am an IT enthusiast, with a postgraduate degree in Artificial Intelligence and Machine Learning, and focused on **Software Development**. My goal is to learn, grow, and share knowledge in these fields to contribute to innovative and impactful projects. I am passionate about exploring the world of technology and inspiring others to join this exciting journey.
 
 <br />
 
@@ -146,3 +146,10 @@
         <img title="Helton Ricardo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=heltonricardo&hide_rank=true&bg_color=0d1117&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&number_format=long&disable_animations=true&include_all_commits=true&custom_title=Helton%20Ricardo%20%F0%9F%A4%A0&show=discussions_started,prs_merged,prs_merged_percentage" />
     </picture>
 </a>
+
+<details>
+  <summary></summary>
+  <p align="center">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://theuselessweb.site/chihuahuaspin/spin.gif" width="300" title="Don't click" /></a>
+  </p>
+</details>

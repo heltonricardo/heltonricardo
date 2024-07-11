@@ -5,7 +5,7 @@
         <img src="assets/telegram.svg" title="Telegram: heltonricardo" height="33" width="33" />
     </a>
     <a href="mailto:helton.contato@proton.me">
-        <img src="assets/email.svg" title="E-mail: contato@helton.info" height="33" width="33" />
+        <img src="assets/email.svg" title="E-mail: helton.contato@proton.me" height="33" width="33" />
     </a>
     <a href="https://linkedin.com/in/heltonricardo">
         <img src="assets/linkedin.svg" title="LinkedIn: heltonricardo" height="33" width="33" />

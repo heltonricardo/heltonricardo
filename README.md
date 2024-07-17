@@ -142,8 +142,8 @@
 
 <a href="https://github.com/heltonricardo/github-readme-stats">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=heltonricardo&theme=buefy&bg_color=fff&hide_rank=true&show_icons=true&hide_border=true&count_private=true&number_format=long&disable_animations=true&include_all_commits=true&custom_title=Helton%20Ricardo%20%F0%9F%A4%A0&show=discussions_started,prs_merged,prs_merged_percentage" />
-        <img title="Helton Ricardo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=heltonricardo&hide_rank=true&bg_color=0d1117&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&number_format=long&disable_animations=true&include_all_commits=true&custom_title=Helton%20Ricardo%20%F0%9F%A4%A0&show=discussions_started,prs_merged,prs_merged_percentage" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=heltonricardo&theme=buefy&bg_color=fff&hide_rank=true&show_icons=true&hide_border=true&count_private=true&number_format=long&disable_animations=true&custom_title=Helton%20Ricardo%20%F0%9F%A4%A0&show=discussions_started,prs_merged,prs_merged_percentage" />
+        <img title="Helton Ricardo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=heltonricardo&hide_rank=true&bg_color=0d1117&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&number_format=long&disable_animations=true&custom_title=Helton%20Ricardo%20%F0%9F%A4%A0&show=discussions_started,prs_merged,prs_merged_percentage" />
     </picture>
 </a>
 

@@ -151,7 +151,7 @@
   <summary></summary>
   <p align="center"><i>They see me rollin'</i></p>
   <p align="center">
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://theuselessweb.site/chihuahuaspin/spin.gif" width="300" title="Please, don't click." /></a>
+    <a href="https://is.gd/pleasedontclick"><img src="https://theuselessweb.site/chihuahuaspin/spin.gif" width="300" title="Please, don't click." /></a>
   </p>
   <p align="center"><i>They hatin'</i></p>
 </details>

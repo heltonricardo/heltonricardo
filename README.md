@@ -10,8 +10,8 @@
     <a href="https://linkedin.com/in/heltonricardo">
         <img src="assets/linkedin.svg" title="LinkedIn: heltonricardo" height="33" width="33" />
     </a>
-    <a href="https://helton.info">
-        <img src="assets/site.svg" title="Site: helton.info" height="33" width="33" />
+    <a href="https://helton.vercel.app">
+        <img src="assets/site.svg" title="Site: helton.vercel.app" height="33" width="33" />
     </a>
     <a href="https://medium.com/@heltonricardo">
         <picture>

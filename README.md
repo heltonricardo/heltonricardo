@@ -75,8 +75,8 @@
 </a>
 <a href="https://github.com/search?l=CSS&q=user%3Aheltonricardo&type=Repositories">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS-fff?logo=css3&logoColor=1572b6&style=flat-square" />
-        <img src="https://img.shields.io/badge/CSS-0d1117?logo=css3&logoColor=1572b6&style=flat-square" title="CSS 3" height="30" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS-fff?logo=css&logoColor=663399&style=flat-square" />
+        <img src="https://img.shields.io/badge/CSS-0d1117?logo=css&logoColor=663399&style=flat-square" title="CSS 3" height="30" />
     </picture>
 </a>
 <a href="https://github.com/search?l=JavaScript&q=user%3Aheltonricardo&type=Repositories">

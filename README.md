@@ -2,21 +2,21 @@
 
 <div style="display:inline-block">
     <a href="https://t.me/heltonricardo">
-        <img src="assets/telegram.svg" title="Telegram: heltonricardo" height="33" width="33" />
+        <img src="https://tvfc7fapipteqgrn.public.blob.vercel-storage.com/telegram.svg" title="Telegram: heltonricardo" height="33" width="33" />
     </a>
     <a href="mailto:helton.contato@proton.me">
-        <img src="assets/email.svg" title="E-mail: helton.contato@proton.me" height="33" width="33" />
+        <img src="https://tvfc7fapipteqgrn.public.blob.vercel-storage.com/email.svg" title="E-mail: helton.contato@proton.me" height="33" width="33" />
     </a>
     <a href="https://linkedin.com/in/heltonricardo">
-        <img src="assets/linkedin.svg" title="LinkedIn: heltonricardo" height="33" width="33" />
+        <img src="https://tvfc7fapipteqgrn.public.blob.vercel-storage.com/linkedin.svg" title="LinkedIn: heltonricardo" height="33" width="33" />
     </a>
     <a href="https://helton.vercel.app">
-        <img src="assets/site.svg" title="Site: helton.vercel.app" height="33" width="33" />
+        <img src="https://tvfc7fapipteqgrn.public.blob.vercel-storage.com/site.svg" title="Site: helton.vercel.app" height="33" width="33" />
     </a>
     <a href="https://medium.com/@heltonricardo">
         <picture>
-            <source media="(prefers-color-scheme: light)" srcset="assets/medium_for_light.svg" />
-            <img src="assets/medium_for_dark.svg" title="Medium: @heltonricardo" height="33" width="33" />
+            <source media="(prefers-color-scheme: light)" srcset="https://tvfc7fapipteqgrn.public.blob.vercel-storage.com/medium_for_light.svg" />
+            <img src="https://tvfc7fapipteqgrn.public.blob.vercel-storage.com/medium_for_dark.svg" title="Medium: @heltonricardo" height="33" width="33" />
         </picture>
     </a>
 </div>
@@ -151,7 +151,7 @@
   <summary></summary>
   <p align="center"><i>They see me rollin'</i></p>
   <p align="center">
-    <a href="https://is.gd/pleasedontclick"><img src="https://theuselessweb.site/chihuahuaspin/spin.gif" width="300" title="Please, don't click." /></a>
+    <a href="https://is.gd/pleasedontclick"><img src="https://tvfc7fapipteqgrn.public.blob.vercel-storage.com/spin_dog.gif" width="300" title="Please, don't click." /></a>
   </p>
   <p align="center"><i>They hatin'</i></p>
 </details>

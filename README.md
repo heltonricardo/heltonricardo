@@ -23,9 +23,9 @@
 
 <br />
 
-<a href="https://findtheinvisiblecow.com/"><img src="assets/br.svg" title="PT-BR" width="10" /></a> Sou entusiasta de TI, pós-graduado em Inteligência Artificial e Aprendizado de Máquina, e focado em **Desenvolvimento de Software**. Busco aprender, crescer e compartilhar conhecimentos nesses campos para contribuir com projetos inovadores e impactantes. Minha paixão é explorar o mundo da tecnologia e inspirar outros a se envolverem nessa jornada emocionante.
+<a href="https://pointerpointer.com/"><img src="https://tvfc7fapipteqgrn.public.blob.vercel-storage.com/us.svg" title="EN" width="10" /></a> I am an IT enthusiast, with a postgraduate degree in Artificial Intelligence and Machine Learning, and focused on **Software Development**. My goal is to learn, grow, and share knowledge in these fields to contribute to innovative and impactful projects. I am passionate about exploring the world of technology and inspiring others to join this exciting journey.
 
-<a href="https://pointerpointer.com/"><img src="assets/us.svg" title="EN" width="10" /></a> I am an IT enthusiast, with a postgraduate degree in Artificial Intelligence and Machine Learning, and focused on **Software Development**. My goal is to learn, grow, and share knowledge in these fields to contribute to innovative and impactful projects. I am passionate about exploring the world of technology and inspiring others to join this exciting journey.
+<a href="https://findtheinvisiblecow.com/"><img src="https://tvfc7fapipteqgrn.public.blob.vercel-storage.com/br.svg" title="PT-BR" width="10" /></a> Sou entusiasta de TI, pós-graduado em Inteligência Artificial e Aprendizado de Máquina, e focado em **Desenvolvimento de Software**. Busco aprender, crescer e compartilhar conhecimentos nesses campos para contribuir com projetos inovadores e impactantes. Minha paixão é explorar o mundo da tecnologia e inspirar outros a se envolverem nessa jornada emocionante.
 
 <br />
 
